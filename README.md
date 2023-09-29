@@ -11,5 +11,4 @@ const ScoutHub = {
   cybersecurity : ["TryHackMe","root-me","Hack The Box"]
 }
 ```
-[![Scouthub GitHub stats](https://github-readme-stats.vercel.app/api?username=scouthub)](https://github.com/scouthub/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scouthub)](https://github.com/scouthub/github-readme-stats)
