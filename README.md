@@ -6,8 +6,8 @@
 ### A litte more about me ...   
 ```js
 const ScoutHub = {
-  code: ["Javascript", "C / C++ / C#", "HTML", "CSS", "PHP / MySQL", "Python"],
-  tools: ["Unreal Engine", "Unity", "Node", "React"],
+  code: ["Typescript", "C / C++", "Python"],
+  tools: ["Emacs"],
   cybersecurity : ["TryHackMe","root-me","Hack The Box"]
 }
 ```
