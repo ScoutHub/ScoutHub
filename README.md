@@ -1,9 +1,7 @@
-# cout << Hi, I’m @ScoutHub 👋 << endl;
+# Hi, I’m @ScoutHub 👋
 
-### *🔨  Student in Software and App Dev  🔨*
-### *👨‍💻  Cybersecurity enthusiast 👨‍💻*
+### Student in Software Engineer & Cybersecurity enthusiast
 
-### A litte more about me ...   
 ```js
 const ScoutHub = {
   code: ["Typescript", "C / C++", "Python"],
